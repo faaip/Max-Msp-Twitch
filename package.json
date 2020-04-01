@@ -1,0 +1,25 @@
+{
+  "name": "max-msp-twitch",
+  "version": "1.0.0",
+  "description": "Quick test for Max patch reacting to Twitch channel.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Frederik Juutilainen",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "tmi.js": "^1.5.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faaip/Max-Msp-Twitch.git"
+  },
+  "bugs": {
+    "url": "https://github.com/faaip/Max-Msp-Twitch/issues"
+  },
+  "homepage": "https://github.com/faaip/Max-Msp-Twitch#readme"
+}
